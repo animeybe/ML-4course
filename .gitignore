@@ -1,4 +1,8 @@
 /datasets
 /trash
-
 labs/_5/horses_vs_humans/
+*.csv
+__pycache__/
+*.pkl
+.DS_Store
+bitcoin_data.csv
